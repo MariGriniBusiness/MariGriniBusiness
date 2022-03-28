@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new languages and the world around us. 
 - 🌱 I’m currently learning python and git
 - 💞️ I’m looking to collaborate on some projects after I have learned more...
-- 📫 How to reach me @MariGrini
+- 📫 How to reach me @MariGriniBusiness
 
 <!---
 MariGriniBusiness/MariGriniBusiness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
