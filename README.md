@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mari Grini 
 - 👀 I’m interested in learning new languages and the world around us. 
-- 🌱 I’m currently learning python and git
+- 🌱 I’m currently learning python, git and AI
 - 💞️ I’m looking to collaborate on some projects after I have learned more...
 - 📫 How to reach me: @MariGriniBusiness and marigrini99@gmail.com
 
